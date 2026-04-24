@@ -1,0 +1,4 @@
+data/
+__pycache__/
+*.npy
+clean_midi.tar.gz
